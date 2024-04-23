@@ -1,1 +1,1 @@
-https://edward.techkyra.com/Lab2_Starter/
+https://edwardlins.github.io/Lab2_Starter/
